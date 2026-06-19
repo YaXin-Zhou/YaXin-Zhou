@@ -24,15 +24,13 @@
 
 ### 👾 关于我
 
-<div align="center">
-
-| 🎯 | Java 全栈开发者 |
-| 🌐 | 热衷于开源社区与技术分享 |
-| 🔮 | 探索优雅的代码架构与设计模式 |
-| 💾 | 持续学习、不断突破技术边界 |
-| 🕹️ | 信奉 "Write once, run anywhere" |
-
-</div>
+<p align="center">
+🎯 Java 全栈开发者<br>
+🌐 热衷于开源社区与技术分享<br>
+🔮 探索优雅的代码架构与设计模式<br>
+💾 持续学习、不断突破技术边界<br>
+🕹️ 信奉 "Write once, run anywhere"
+</p>
 
 <br>
 
