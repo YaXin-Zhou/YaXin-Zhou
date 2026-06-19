@@ -22,31 +22,17 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<br>
-
 ### 👾 关于我
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
 
-```diff
-+ 🎯 Java 全栈开发者
-+ 🌐 热衷于开源社区与技术分享
-+ 🔮 探索优雅的代码架构与设计模式
-+ 💾 持续学习、不断突破技术边界
-+ 🕹️ 信奉 "Write once, run anywhere"
-```
+| 🎯 | Java 全栈开发者 |
+| 🌐 | 热衷于开源社区与技术分享 |
+| 🔮 | 探索优雅的代码架构与设计模式 |
+| 💾 | 持续学习、不断突破技术边界 |
+| 🕹️ | 信奉 "Write once, run anywhere" |
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <br>
 
@@ -76,10 +62,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e)
 
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br>
 
@@ -119,20 +101,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YaXin-Zhou&theme=radical&no-frame=true&column=8&margin-w=12&title=Stars,Followers,Repositories,Commits,Issues,PullRequest,Reviews,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-<br>
-
-### 🐍 贡献蛇形图
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/YaXin-Zhou/YaXin-Zhou/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br>
 
