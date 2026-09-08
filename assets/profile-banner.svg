@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">WenLei — YaXin Zhou</title>
+  <desc id="desc">AI product and full-stack engineer profile banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B18"/>
+      <stop offset="0.52" stop-color="#11152A"/>
+      <stop offset="1" stop-color="#081B27"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity=".075"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <ellipse cx="180" cy="90" rx="310" ry="235" fill="url(#glow)" filter="url(#blur)"/>
+  <ellipse cx="1060" cy="315" rx="330" ry="210" fill="#0891B2" fill-opacity=".13" filter="url(#blur)"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M55 292C210 190 306 334 455 232S706 137 835 212s214 40 310-60" stroke="url(#accent)" stroke-opacity=".22" stroke-width="2"/>
+    <path d="M72 315C235 220 325 348 472 255s244-74 373-8 202 27 291-53" stroke="url(#accent)" stroke-opacity=".11"/>
+  </g>
+
+  <g transform="translate(82 74)">
+    <rect width="68" height="26" rx="13" fill="#8B5CF6" fill-opacity=".16" stroke="#A78BFA" stroke-opacity=".45"/>
+    <circle cx="17" cy="13" r="4" fill="#22D3EE"/>
+    <text x="29" y="17" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.2">ONLINE</text>
+  </g>
+
+  <text x="80" y="158" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="2">WENLEI</text>
+  <rect x="80" y="177" width="535" height="4" rx="2" fill="url(#accent)"/>
+  <text x="82" y="218" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="3.2">YAXIN ZHOU · PRODUCT-MINDED ENGINEER</text>
+  <text x="82" y="257" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.1">AI PRODUCTS  /  FULL-STACK SYSTEMS  /  DESKTOP TOOLS</text>
+
+  <g transform="translate(945 78)">
+    <circle cx="90" cy="90" r="86" fill="#0F172A" fill-opacity=".72" stroke="#334155"/>
+    <circle cx="90" cy="90" r="69" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-dasharray="2 9"/>
+    <path d="M47 104 70 80l21 20 39-42" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="47" cy="104" r="6" fill="#8B5CF6"/>
+    <circle cx="70" cy="80" r="6" fill="#6366F1"/>
+    <circle cx="91" cy="100" r="6" fill="#3B82F6"/>
+    <circle cx="130" cy="58" r="6" fill="#22D3EE"/>
+    <text x="90" y="139" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">BUILD · VERIFY · SHIP</text>
+  </g>
+
+  <rect x=".75" y=".75" width="1198.5" height="358.5" rx="27.25" fill="none" stroke="#A78BFA" stroke-opacity=".18" stroke-width="1.5"/>
+</svg>

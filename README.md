@@ -1,112 +1,96 @@
-<h1 align="center">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6&height=240&section=header&text=⚡%20YAXIN%20ZHOU%20⚡&fontSize=50&fontAlignY=32&animation=fadeIn&fontColor=00fff7&desc=Java%20%7C%20%E5%85%A8%E6%A0%88%20%7C%20%E5%BC%80%E6%BA%90&descSize=20&descAlignY=52" />
-  </a>
-</h1>
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="WenLei — YaXin Zhou, AI product and full-stack engineer" />
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=FF00FF&center=true&vCenter=true&width=600&lines=%3E+System.out.println(%22Hello+World%22);%3E+Java+%26+%E5%89%8D%E7%AB%AF%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91;%3E+%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%E4%B8%8D%E6%96%AD%E7%AA%81%E7%A0%B4;%3E+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E7%A9%BA%E9%97%B4+%F0%9F%8C%83" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/YaXin-Zhou?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="mailto:3518804375z@gmail.com"><img src="https://img.shields.io/badge/Let's-Talk-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email WenLei" /></a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=0&color=00FFF7&center=true&vCenter=true&repeat=false&width=500&lines=YAXIN+ZHOU" />
-  <br>
-  <sub>⚡ Java 全栈 | 开源爱好者 | 终身学习者 ⚡</sub>
-</p>
+<br />
 
----
+## Hello, I'm WenLei 👋
 
-### 👾 关于我
+I turn ambitious ideas into working products — from AI-native workflows and data-intensive backends to polished web and desktop experiences.
 
-<p align="center">
-  🎯 Java 全栈开发者 &nbsp;|&nbsp;
-  🌐 热衷开源社区与技术分享 &nbsp;|&nbsp;
-  🔮 探索优雅的代码架构与设计模式 &nbsp;|&nbsp;
-  💾 持续学习不断突破技术边界 &nbsp;|&nbsp;
-  🕹️ 信奉 "Write once, run anywhere"
-</p>
+我是一名偏产品思维的全栈开发者，关注 **AI 应用、可靠系统与完整交付**。比起只做功能 Demo，我更喜欢把复杂问题拆成能运行、能验证、能持续迭代的产品。
 
----
+```text
+CURRENT FOCUS  AI products · Full-stack systems · Desktop tools · Open source
+ENGINEERING    Product thinking · Clear architecture · Safe automation · Shipping
+```
 
-### 💾 技术栈
+## Selected work
 
-<p align="center">
-  <b>⌨️ 语言 & 框架</b>
-  <br><br>
-  <img src="https://img.shields.io/badge/Java-ff6600?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1a2e" />
-  <br><br>
-  <b>🔧 工具 & 基础设施</b>
-  <br><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Linux-00ffff?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-ff00ff?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=1a1a2e" />
-  <br><br>
-  <b>🗄️ 数据库</b>
-  <br><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" />
-</p>
+| Project | What it does | Core stack |
+|:--|:--|:--|
+| **[TradePilot](https://github.com/YaXin-Zhou/TradePilot)** | AI-assisted quantitative trading platform with backtesting, live execution, layered risk control and observability. | Python · FastAPI · Next.js · PostgreSQL · Docker |
+| **[sensory-lab](https://github.com/YaXin-Zhou/sensory-lab)** | AI research platform covering survey generation, quota control, statistical analysis, NLP coding and report delivery. | FastAPI · React · Vue · pgvector · Qwen |
+| **[liuyao-ai](https://github.com/YaXin-Zhou/liuyao-ai)** | A desktop-ready I Ching charting app with streaming DeepSeek interpretation and local history. | Python · Streamlit · DeepSeek · PyInstaller |
+| **[Delta Force Account Inspector](https://github.com/YaXin-Zhou/Delta-Force-Account-Inspector)** | A bilingual Windows desktop app for Steam profile, ban-status, inventory and game-account inspection. | Electron · React · TypeScript · Vite |
 
----
+<div align="center">
+  <sub>More experiments live in <a href="https://github.com/YaXin-Zhou?tab=repositories">my repositories →</a></sub>
+</div>
 
-### 📊 GitHub 统计
+## Engineering map
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=YaXin-Zhou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff00ff&text_color=c9d1d9&ring_color=ff00ff&border_radius=12&custom_title=%E2%9A%A1%20GitHub%20%E7%BB%9F%E8%AE%A1" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaXin-Zhou&layout=compact&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&border_radius=12&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YaXin-Zhou&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFF7&currStreakNum=C9D1D9&sideNums=00FFF7&sideLabels=C9D1D9&dates=8B949E" />
-</p>
+**Product & application**
 
----
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FACC15" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=F97316" alt="Java" />
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=22D3EE" alt="React" />
+<img src="https://img.shields.io/badge/Vue-0F172A?style=flat-square&logo=vuedotjs&logoColor=4ADE80" alt="Vue" />
+<img src="https://img.shields.io/badge/Electron-0F172A?style=flat-square&logo=electron&logoColor=A5F3FC" alt="Electron" />
 
-### ⚡ 活动记录
+**Backend & intelligence**
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaXin-Zhou&bg_color=0d1117&color=00fff7&line=ff00ff&point=00fff7&area=true&area_color=b400ff&hide_border=true&radius=12&custom_title=%E2%96%BA%20%E8%B4%A1%E7%8C%AE%E6%B5%81&title_color=00fff7" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=2DD4BF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=86EFAC" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=93C5FD" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-0F172A?style=flat-square&logo=redis&logoColor=F87171" alt="Redis" />
+<img src="https://img.shields.io/badge/LLM_APIs-0F172A?style=flat-square&logo=openai&logoColor=C4B5FD" alt="LLM APIs" />
 
----
+**Delivery & infrastructure**
 
-### 🏆 成就墙
+<img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=60A5FA" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=A5B4FC" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=FDE047" alt="Linux" />
+<img src="https://img.shields.io/badge/Nginx-0F172A?style=flat-square&logo=nginx&logoColor=4ADE80" alt="Nginx" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YaXin-Zhou&theme=radical&no-frame=true&column=8&margin-w=12&title=Stars,Followers,Repositories,Commits,Issues,PullRequest,Reviews,Experience" />
-  </a>
-</p>
+</div>
 
----
+## How I build
 
-### 📡 联系我
+- **Start from the real workflow.** Define the user journey and acceptance result before expanding the feature list.
+- **Make AI controllable.** Add validation, fallbacks, review gates and observability around model output.
+- **Ship the whole path.** Treat interface, backend, data, deployment and recovery as one product system.
+- **Prefer evidence.** Tests, visible UI results and reproducible checks matter more than optimistic claims.
 
-<p align="center">
-  <a href="https://github.com/YaXin-Zhou">
-    <img src="https://img.shields.io/badge/GitHub-YaXin__Zhou-00fff7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=YaXin-Zhou&style=flat-square&color=ff00ff&label=%E8%AE%BF%E5%AE%A2" />
-</p>
+## Contribution trail
 
-<p align="center">
-  <br>
-  <samp>代码是用逻辑写成的诗。</samp>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaXin-Zhou/YaXin-Zhou/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaXin-Zhou/YaXin-Zhou/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/YaXin-Zhou/YaXin-Zhou/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6&height=100&section=footer" />
+## Connect
+
+I am open to conversations about AI products, full-stack engineering and practical automation.
+
+<div align="center">
+  <a href="https://github.com/YaXin-Zhou"><img src="https://img.shields.io/badge/GitHub-YaXin--Zhou-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:3518804375z@gmail.com"><img src="https://img.shields.io/badge/Email-3518804375z%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Build with clarity. Ship with evidence. Keep learning.</sub>
+</div>
